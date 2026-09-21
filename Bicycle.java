@@ -1,6 +1,6 @@
 public class Bicycle extends Vehicle {
 
-    int gearCount;
+    int gearCount:
     double maxPedalSpeed;
 
     public Bicycle(String vehicleName, int gearCount, double maxPedalSpeed) {
